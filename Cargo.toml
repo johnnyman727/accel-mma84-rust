@@ -1,0 +1,5 @@
+[package]
+
+name = "accel-mma84-rust"
+version = "0.0.1"
+authors = ["johnnyman727 <johnnyman727@gmail.com>"]
